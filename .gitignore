@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Data — university-provided, not redistributable
+data/*.dat
+data/*.csv
+data/*.npy
+
+# Output plots (reproducible from code)
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
