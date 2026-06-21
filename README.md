@@ -4,7 +4,7 @@ From-scratch implementation of gradient descent and a fully connected neural net
 
 ## Context
 
-MSc in Statistics & Data Science, University College Dublin — Optimisation in Machine Learning module. The assignment builds two models entirely from first principles using NumPy, without any ML framework, to demonstrate understanding of the mathematical foundations underlying modern AI systems.
+MSc in Statistics & Data Science, University College Dublin — Optimisation in Machine Learning module. This project builds two models entirely from first principles using NumPy, without any ML framework, to demonstrate understanding of the mathematical foundations underlying modern AI systems.
 
 ## What it does
 
@@ -39,4 +39,4 @@ MSc in Statistics & Data Science, University College Dublin — Optimisation in 
 
 ## Data
 
-The training dataset (`25221241_training_data.dat`) was provided by UCD and is not redistributed here. Place it in `data/` before running `src/neural_network.py`.
+The training dataset (`training_data.dat`) is not redistributed here. Place it in `data/` before running `src/neural_network.py`.

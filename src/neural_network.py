@@ -1,6 +1,3 @@
-"""
-@author: Victoria Arroniz Soriano 25221241
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -9,7 +6,7 @@ import matplotlib.pyplot as plt
 # TASK 1. LINEAR REGRESSION
 ##########################################################################################################
 # Load training data
-training_data = np.loadtxt('25221241_training_data.dat')
+training_data = np.loadtxt('data/training_data.dat')
 
 xs = training_data[:,:2] # inputs
 ys = training_data[:,2]  # outputs
